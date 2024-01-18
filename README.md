@@ -2,13 +2,11 @@
 
 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](Connect.jpg "Connect")  |  ![](Select.jpg "Select")
+Connect Page               |  Select Page              |  Status Page              |  File Explorer          
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](Connect.jpg "Connect")  |  ![](Select.jpg "Select")| ![](Status.jpg "Status")  |  ![](Files.jpg "Files")
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](Status.jpg "Status")  |  ![](Files.jpg "Files")
+
 
 This is a companion app to a ESP-32 based credit card skimmer device with bluetooth functionality. 
 
