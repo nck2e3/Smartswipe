@@ -1,16 +1,11 @@
-# smartswipe
+# Smartswipe
 
-A new Flutter project.
+This is a companion app to a ESP-32 based credit card skimmer device with bluetooth functionality. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The smartswipe app will only function correctly when hardware and software of the peripheral device (ESP-32) is configured according to the companion project below. Read the documentation that details the hardware specifications of the peripheral device in the link below.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/nk2e3/ESP32-Flutter-Bluetooth-Card-Skimmer/new/main?filename=README.md
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
