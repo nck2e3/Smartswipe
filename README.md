@@ -1,8 +1,14 @@
 # Smartswipe
 
-![alt-text-1](Connect.jpg "Connect") ![alt-text-2](Select.jpg "Select") ![alt-text-3](Status.jpg "Status") ![alt-text-4](Files.jpg "Files")
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](Connect.jpg "Connect")  |  ![](Select.jpg "Select")
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](Status.jpg "Status")  |  ![](Files.jpg "Files")
 
 This is a companion app to a ESP-32 based credit card skimmer device with bluetooth functionality. 
 
