@@ -1,6 +1,6 @@
 # Smartswipe
 
-![alt-text-1](Connect.jpg "Connect") ![alt-text-2](Select.jpg "Select") ![alt-text-2](Status.jpg "Status") ![alt-text-2](Files.jpg "Files")
+![alt-text-1](Connect.jpg "Connect") ![alt-text-2](Select.jpg "Select") ![alt-text-3](Status.jpg "Status") ![alt-text-4](Files.jpg "Files")
 
 
 
