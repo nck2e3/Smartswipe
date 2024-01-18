@@ -19,6 +19,6 @@ https://github.com/nk2e3/ESP32-Flutter-Bluetooth-Card-Skimmer
 
 ![image](schematic.png)
 
-
+[![Watch the video](https://img.youtube.com/vi/mUumMkg7PCY/maxresdefault.jpg)](https://youtu.be/mUumMkg7PCY)
 
 
